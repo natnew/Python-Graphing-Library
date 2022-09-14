@@ -4,5 +4,5 @@ Data <br>
 Images <br>
 Website <br>
 Projects <br>
-Graph <br>
+Graphs <br>
 Logo <br>
